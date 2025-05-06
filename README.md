@@ -27,7 +27,8 @@ This project details the creation and implementation of a structured scoring and
 ## How It Works
 
 1.  **Defined Evaluation Framework:** The competition utilized a structured evaluation framework with five main criteria, each having specific weightings and further broken down into sub-criteria with their own weight percentages. Judges were instructed to score each sub-criterion on a scale of 1 (Poor) to 5 (Excellent). The detailed breakdown of criteria and sub-criteria with their weights is as follows:
-**Score Sheet** ![image](https://github.com/user-attachments/assets/f4f9c644-add7-48f7-a89f-58222d45d206)
+**Score Sheet**
+![image](https://github.com/user-attachments/assets/f4f9c644-add7-48f7-a89f-58222d45d206)
 
     * **Problem/Opportunity (30%)**:
         * Significance and market size of the problem (20%)
