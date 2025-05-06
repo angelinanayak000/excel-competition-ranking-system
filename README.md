@@ -52,7 +52,8 @@ This project details the creation and implementation of a structured scoring and
 
     * `$D$6`, `$D$7`, etc.: Absolute references to the cells containing the pre-defined weights for each sub-criterion.
     * `E6`, `E7`, etc.: Relative references to the cells containing the individual judge's score (1-5) for each sub-criterion.
-    **A Team Score Sheet** ![Screenshot 2025-05-06 194911](https://github.com/user-attachments/assets/fc274c54-02e1-47d9-bddd-99278ffe368a)
+    **A Team Score Sheet**
+    ![Screenshot 2025-05-06 194911](https://github.com/user-attachments/assets/fc274c54-02e1-47d9-bddd-99278ffe368a)
 
 
 4.  **Average Final Score Determination:** To obtain a consolidated score for each team, the "Average Final Score" was calculated by taking the arithmetic mean of the total scores awarded by the five judges. The Excel formula used was:
@@ -73,6 +74,8 @@ This project details the creation and implementation of a structured scoring and
     * `H:H`: The entire column containing the "Average Final Scores" of all 11 teams.
     * `0`: Specifies that the ranking should be in descending order, with the highest average score receiving a rank of 1.
     **FInal Score Sheet of 11 Teams with Rankings**
+    ![Screenshot 2025-05-06 194839](https://github.com/user-attachments/assets/33931f72-076a-4e30-a975-d0e9fff6c3ed)
+
 
 6.  **Winner and Runner-Up Identification:** Based on the final rankings, the team holding Rank 1 ("AAHAR AI") was declared the Winner of the IMPULSE – “Next Big Idea” competition, and the team with Rank 2 ("AGRO FAST - SMART BLOOM") was recognized as the Runner-Up.
 
